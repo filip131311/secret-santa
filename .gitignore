@@ -122,6 +122,9 @@ dist
 # Stores VSCode versions used for testing VSCode extensions
 .vscode-test
 
+# list of people that attend secret santa
+people.json
+
 # yarn v2
 .yarn/cache
 .yarn/unplugged
